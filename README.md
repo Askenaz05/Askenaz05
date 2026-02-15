@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Askenaz05/Askenaz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🇪🇸 Español
 👋 Bienvenido a mi perfil de GitHub
 
@@ -163,4 +160,3 @@ AutoCAD · SolidWorks · Fusion 360
 
 Automatisation Industrielle :
 Interfaces HMI · Automates Siemens (PLC) · Bras robotiques
--->
